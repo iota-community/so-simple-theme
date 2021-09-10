@@ -6,3 +6,8 @@ sitemap: false
 @charset "utf-8";
 
 @import "so-simple";
+
+// Tailwind css
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
